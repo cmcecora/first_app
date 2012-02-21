@@ -1,3 +1,1 @@
-# Ruby on Rails Tutorial
-
-This is the first application for ROR.
+New Rails App Text
